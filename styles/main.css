@@ -1,0 +1,52 @@
+:root{
+
+    --primary-color: #34cb79;
+    --title-color: #322153;
+}
+
+*{
+
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+
+}
+
+html {
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+
+    
+    background: #f0f0f5;
+}
+
+a {
+
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6{
+
+    color: var(--title-color);
+
+    font-family: 'Ubuntu', sans-serif;
+
+    
+
+}
+/* box model
+
+Modelo de caixa
+
+Toda caixa tem largura, altura, espacaçamento, brodas
+preenchimento, cor, fundo, maneira que está sendo vista
+que em HTML se chama Display
+
+*/
+
+
+
